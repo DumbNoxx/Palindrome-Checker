@@ -34,8 +34,4 @@ The core functionality comes from this function:
 1. Clone the repository
 2. Open `index.html` in your browser
 
-## Demo
-
-[View live demo](#) (optional link)
-
 > Educational project for practicing DOM manipulation and regular expressions
